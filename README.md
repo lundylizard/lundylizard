@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Yo, I'm lundy ![Profile Views](https://komarev.com/ghpvc/?username=lundylizard&label=Profile%20views&color=0e75b6&style=flat)
 
-<!--
-**lundylizard/lundylizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate software engineer with a heart for a smooth user experience!
+If I set my mind to something, I’ll figure it out.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Focus
+Currently focused on **web development** using:
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have experience with a wide variety of technologies and love learning new tools.
+
+## 🧠 What You'll Find Here
+This GitHub will be filled with:
+- ⚙️ Useful projects across many programming languages
+- 🌐 Tools and experiments related to different tech topics
+- 💡 Things I built just to learn and share
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lundylizard&layout=compact)
+
